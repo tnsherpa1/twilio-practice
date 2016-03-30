@@ -1,0 +1,22 @@
+{
+  "name": "twilio_practice",
+  "version": "1.0.0",
+  "description": "Twilio working demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnsherpa1/twilio-practice.git"
+  },
+  "author": "Tashi Sherpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnsherpa1/twilio-practice/issues"
+  },
+  "homepage": "https://github.com/tnsherpa1/twilio-practice#readme",
+  "dependencies": {
+    "twilio": "^2.9.0"
+  }
+}
